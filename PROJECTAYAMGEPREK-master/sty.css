@@ -1,0 +1,23 @@
+*,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.ul-atas {
+  display: flex;
+  height: 70px;
+  justify-content: center;
+  align-items: center;
+}
+.li-atas {
+  list-style: none;
+  padding: 10px;
+  margin: 5px;
+  font-size: 20px;
+  justify-content: space-evenly;
+}
+
+.a-navbar {
+  text-decoration: none;
+}
